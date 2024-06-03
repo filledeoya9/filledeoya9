@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @filledeoya9, Juliana.
-- 👀 I’m interested in adquiri conhecimentos em programação nas linguagens Python, R e Júlia.
-- 🌱 I’m currently learning  Python.
-- 💞️ I’m looking to collaborate on  projetos que permitam aprender mais  sobre as linguagens acima citadas.
+- 👀 I’m interested in adquiri conhecimentos em análise de dados.
+- 🌱 I’m currently learning  Python e SQL.
+- 💞️ I’m looking to collaborate on  projetos que permitam aprender mais  sobre as tecnologias acima citadas.
 - 📫 How to reach me 
 linkedin: www.linkedin.com/in/julianarodriguess
 email: devjulianarodrigues@gmail.com
