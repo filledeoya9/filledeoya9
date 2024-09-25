@@ -1,4 +1,4 @@
-- 👋 Hi, Juliana.
+- 👋 Hi, I am Juliana.
 - 👀 I’m interested in adquiri conhecimentos em análise de dados.
 - 🌱 I’m currently learning  Python e SQL.
 - 💞️ I’m looking to collaborate on  projetos que permitam aprender mais  sobre as tecnologias acima citadas.
